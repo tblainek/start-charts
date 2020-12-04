@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&family=Roboto+Slab&family=Roboto:wght@400&display=swap');
+
+body {
+    font: 11px sans-serif;
+    background-color: #e7e7e7;
+}
+
+.chart_block {
+    display:inline-block;
+}
+
+.chart_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
